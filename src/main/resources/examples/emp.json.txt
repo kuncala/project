@@ -1,0 +1,6 @@
+{
+  "empID": "1234",
+  "empNAME": "srikanth",
+  "empMAIL": "sri123@gmail.com",
+  "empStatus": "active"
+}

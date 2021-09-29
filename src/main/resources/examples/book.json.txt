@@ -1,0 +1,12 @@
+{
+  "item":{
+       "type":"book",
+        "price": 30,
+         "properties":{
+                      "title":"everyday italian",
+                       "author": ["giada de laaa"],
+                        "year":2021,
+                         "language":"eng"
+                       }   
+          }
+}
